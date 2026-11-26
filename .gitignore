@@ -1,2 +1,4 @@
 .venv/
 .vscode/
+venv/
+statlog_german_credit_data.csv
